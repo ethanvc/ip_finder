@@ -6,3 +6,5 @@ i uploaded ip list of www.googole.com and all available dns server address at th
 
 The technical method is pretty simple, just send dns package to all ip v4 address. By the way, i copied the dns package parser
 frm chrome project.
+
+https://wxapp.meface.cn/huida/page/
